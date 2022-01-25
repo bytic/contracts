@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Bytic\\Contracts\\": ""
+      "Bytic\\Contracts\\": "src/"
     }
   },
   "config": {
